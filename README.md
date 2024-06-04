@@ -1,6 +1,11 @@
-## Hi there 👋
+## Hi I'm Aziz! 👋
+
+I'm a Computer Engineering Student sharing about my journey and learings in tech </br>
+
 
 <!--
+[![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aziz0220)](https://github.com/anuraghazra/github-readme-stats)
+
 **aziz0220/aziz0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
