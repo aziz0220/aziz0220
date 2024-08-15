@@ -21,5 +21,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aziz0220&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 
 ---
--->
-[![](https://visitcount.itsvg.in/api?id=aziz0220&icon=4&color=6)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=aziz0220&icon=4&color=6)](https://visitcount.itsvg.in)-->
